@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* color: white; */
+  color: #242424;
+}
+body{
+  /* background-image: url(https://tailwindui.com/img/beams-home@95.jpg); */
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+}
+::-webkit-scrollbar{
+  display: none;
+}
