@@ -4,7 +4,7 @@ import App from './App';
 import cookie from 'react-cookies';
 import './index.css';
 
-export const server = "http://localhost:3000";
+export const server = "https://jobber-backend-iuk8.onrender.com";
 
 // Remove the token (as per your code)
 const token = cookie.load('jobAuthToken');
