@@ -45,7 +45,7 @@ const Login = () => {
     <div className="mt-16 sm:mx-32 grid lg:grid-cols-12 p-6">
       <div className="col-span-6">
         <img
-          src="/public/plugin, puzzle, puzzles, pieces, man, people.svg"
+          src="/plugin, puzzle, puzzles, pieces, man, people.svg"
           className="w-[30rem]"
         />
       </div>
